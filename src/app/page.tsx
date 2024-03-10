@@ -1,4 +1,4 @@
-import styles from "./page.module.css";
+import styles from "./page.module.scss";
 import CardProject from "./components/CardProject/CardProject";
 import formLogin from "../assets/img/form-login.jpg";
 export default function Home() {
